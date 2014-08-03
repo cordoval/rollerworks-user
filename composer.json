@@ -1,0 +1,12 @@
+{
+    "name": "rollerworks/rollerworks-user",
+    "authors": [
+        {
+            "name": "Sebastian Stok",
+            "email": "rollerskates@rollerworks.com"
+        }
+    ],
+    "require": {
+        
+    }
+}
