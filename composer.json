@@ -2,11 +2,18 @@
     "name": "rollerworks/rollerworks-user",
     "authors": [
         {
-            "name": "Sebastian Stok",
-            "email": "rollerskates@rollerworks.com"
+            "name": "Sebastiaan Stok",
+            "email": "s.stok@rollerscapes.net"
+        },
+        {
+            "name": "Luis Cordova",
+            "email": "cordoval@gmail.com"
         }
     ],
     "require": {
-        
+
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.1.4"
     }
 }
